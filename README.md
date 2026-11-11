@@ -2,7 +2,14 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: November 11, 2026
 
-By opting in to receive SMS/text messages from Timber Ridge Renovations LLC, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from Timber Ridge Renovations LLC, you agree to the following terms:
+
+You consent to receive customer care messages from Timber Ridge Renovations LLC.
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can reply STOP to unsubscribe at any time.
+You can reply HELP for assistance.
+Privacy Policy: https://github.com/jchinchillagoto/timberridgerenovationsPP
 
 Business Information
 
